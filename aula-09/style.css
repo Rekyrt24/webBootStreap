@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+  }
+  .nav-link.active {
+    font-weight: bold;
+  }
+
+  .manu{
+    background-color: #120e4b
+
+    ;
+  }
+
+  .carousel-inner img {
+    width: 100%;
+    height: 900px; 
+    object-fit: cover; 
+  }
